@@ -9,4 +9,5 @@
 
 **Course: Programming with JavaScript**
 
-1. [Building a functional program]()
+ 1. [Building a functional program](https://github.com/uurkrtl/Meta-Front-End-Developer-Course/tree/master/2-Programming%20with%20JavaScript/1-Building%20a%20functional%20program)
+ 2. [Building an object-oriented program]()
