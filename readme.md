@@ -10,4 +10,6 @@
 **Course: Programming with JavaScript**
 
  1. [Building a functional program](https://github.com/uurkrtl/Meta-Front-End-Developer-Course/tree/master/2-Programming%20with%20JavaScript/1-Building%20a%20functional%20program)
- 2. [Building an object-oriented program]()
+ 2. [Building an object-oriented program](https://github.com/uurkrtl/Meta-Front-End-Developer-Course/tree/master/2-Programming%20with%20JavaScript/2-Building%20an%20object-oriented%20program)
+ 3. [Array and object iteration]()
+
